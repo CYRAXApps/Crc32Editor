@@ -1,2 +1,6 @@
 # Crc32Editor
-Android 16 Supported | Language English
+Updated Version
+Android 16 Supported 
+Language English
+
+Join Telegram Channel: https://t.me/CYRAXApps
